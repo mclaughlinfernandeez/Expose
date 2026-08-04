@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign Claims & Empirical Analytics",
+  "description": "Comprehensive legal claims knowledge graph, empirical disability policy analytics, ZIP jurisdiction & MDEC court dispatch directory, financial redemption model, and exhibit index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
